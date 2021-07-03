@@ -1,0 +1,31 @@
+h1{
+  color: #2C974B;
+}
+.container{
+  margin: 10px auto;
+  width: 70%;
+  font-family: 'Open Sans', sans-serif;
+  font-weight:lighter;
+  border: 1px solid #ddd;
+  padding: 0px 30px;
+  padding-bottom: 30px;
+}
+table, th, td{
+  border: 1px solid #ddd;
+  border-collapse: collapse;
+  padding: 10px;
+  font-size: 15px;
+}
+tr:nth-child(odd){
+  background-color: #F6F8FA;
+}
+th{
+  background-color: #fff;
+}
+h3, a{
+  color:rgb(107, 105, 105);
+  text-decoration: none;
+}
+a:hover{
+  color: #2C974B;
+}
