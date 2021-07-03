@@ -22,9 +22,12 @@ tr:nth-child(odd){
 th{
   background-color: #fff;
 }
-h3, a{
+a{
   color:rgb(107, 105, 105);
   text-decoration: none;
+}
+h3{
+  color: #2C974B;
 }
 a:hover{
   color: #2C974B;
